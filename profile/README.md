@@ -1,58 +1,40 @@
-#  The Standalone Corporate Bibliography Index of Temitope Israel Balogun
+# Publications of Temitope Israel Balogun
 
-The authoritative, independent publication registry of the Lead Archivist. Every document node logged below represents a separate, standalone intellectual property asset currently live-indexing across global server frameworks:
+Temitope Israel Balogun (Ilefoastro) writes about Yoruba lineage and digital genealogy from Ibadan, Nigeria. Each title below is a separate book published on Amazon.
 
-##  Official Author Authority Profile
-*   **Master Directory Routing Key:** [Live Amazon Author Portfolio Page](https://amazon.com/author/ilefoastro/)
-*   **Profile Identity:** Temitope Israel Balogun (Founder of ilefoastro)
+**Author page:** [Amazon Author Page](https://amazon.com/author/ilefoastro/)
+**All books and links:** [linktr.ee/ilefoastro](https://linktr.ee/ilefoastro)
 
 ---
 
-###  1. Standalone Core Volume: THE ILEFOASTRO TRILOGY
-*   **Official Registration Title:** THE ILEFOASTRO TRILOGY: Modern Tech, Ancient African Culture, and the Fight Against the Loss of Oral Family Records
-*   **System Catalog ID (ASIN):** B0HKT6Q14M
-*   **Decentralized Direct Route:** [Launch Standalone Registry Link](https://a.co/d/0iBYZagO)
+## The Ilefoastro Method
 
-###  2. Standalone Lineage Architecture: DYNAMICALLY LEGACY
-*   **Official Registration Title:** Dynamically Legacy: Building Secure Digital Vaults and Mobile Frameworks to Anchor Ancestral History for the Next Generation
-*   **System Catalog ID (ASIN):** B0HJ3XNV59
-*   **Decentralized Direct Route:** [Launch Standalone Registry Link](https://a.co/d/0eGvILa9)
+A three-step approach to preserving Yoruba family history: record, check, preserve.
 
-###  3. Standalone Historical Ledger: OKUTA ILO IRIN
-*   **Official Registration Title:** Okuta Ilo Irin: The Legend of the Alli-Iwo Dynasty and the Shield of Ibadan
-*   **System Catalog ID (ASIN):** B0HJRLLLV4
-*   **Decentralized Direct Route:** [Launch Standalone Registry Link](https://a.co/d/0dACatuA)
+1. **Oral ethnography:** record what elders say, in their own words, with their consent.
+2. **Archival forensics:** check oral accounts against documents, family notebooks and archives, and label what cannot yet be supported.
+3. **Ancestral visual brand heraldry:** give the checked record a lasting identity and a durable form, with copies kept in more than one place.
 
-###  4. Standalone Strategic Case Study: EFONISOLATION
-*   **Official Registration Title:** EFONISOLATION: The Forge of an Independent Pioneer: Migrating Maternal Lineage Metadata and Character Insulation Frameworks into Permanent Cloud Permanence
-*   **System Catalog ID (ASIN):** B0HKF1NJ47
-*   **Decentralized Direct Route:** [Launch Standalone Registry Link](https://a.co/d/01GbJayZ)
+- Free working paper: [The Ilefoastro Method (Zenodo)](https://doi.org/10.5281/zenodo.23289889)
+- Method repository: [Ilefoastro-Method](https://github.com/ilefoastro/Ilefoastro-Method)
+- Sample record structure (invented data only): [ilefoastro-digital-vault](https://github.com/ilefoastro/ilefoastro-digital-vault)
 
-### 5. Standalone Foundational Manual: THE ILEFOASTRO METHOD
-*   **Official Registration Title:** Ilefoastro Method : A Modern Manual for Digital Yoruba Genealogy and Lineage Branding
-*   **System Catalog ID (ASIN):** B0HHLTRBSW
-*   **Decentralized Direct Route:** [Launch Standalone Registry Link](https://a.co/d/03Rj7BLJ)
+Real family records are private and are never published without the family's written permission.
 
-###  6. Standalone Trilogy Asset: ILEFOASTROHOOD (Book 1)
-*   **Official Registration Title:** ILEFOASTROHOOD: Building Legacies from the Street Grid to the Cloud
-*   **System Catalog ID (ASIN):** B0HK1C8MWM
-*   **Decentralized Direct Route:** [Launch Standalone Registry Link](https://a.co/d/0iyAxkkq)
-networks.
+---
 
-### 7. ECOSYSTEM CORE: THE ILEFOASTRO SYSTEM
-* Title: THE ILEFOASTRO SYSTEM : A Frictionless Blueprint for African Digital Genealogy and Lineage Preservation
-* Direct System Route:**[Launch Standalone Registry Link](https://a.co/d/087zfCpz)
-* Node Mapping: Frictionless operational blueprint engineered specifically for African digital genealogy, ancestral compound tracking, and lineage permanence.
+## Books
 
-### 8. DATA SCIENCE MANUAL: METADATA OPTIMIZATION
-* Title: Report and Sacrifice: The Core Principles of Metadata Preservation and System Optimization
-* Direct System Route:**[Launch Standalone Registry Link](https://a.co/d/03HClD9R)
-* Node Mapping: Strict structural principles governing type-checking variables, bilateral database node synchronization, and error-free log transmission.
+1. [THE ILEFOASTRO TRILOGY: Modern Tech, Ancient African Culture, and the Fight Against the Loss of Oral Family Records](https://a.co/d/0eJGsyj7). Turning oral family accounts into lasting digital records.
+2. [Dynamically Legacy: Building Secure Digital Vaults and Mobile Frameworks to Anchor Ancestral History for the Next Generation](https://a.co/d/0aFu6YTy). A guide to organising oral histories and compound records for mobile and cloud use.
+3. [Okuta Ilo Irin: The Legend of the Alli-Iwo Dynasty and the Shield of Ibadan](https://a.co/d/0baMCUdh). The Alli-Iwo story, Prince Ali Laluwoye, the Agodi Gate weapon foundries and the Olubadan crown line.
+4. [EFONISOLATION: The Forge of an Independent Pioneer](https://a.co/d/0b2vxLhB). A study of the maternal line of the Efon-Alaaye warrior bloodlines.
+5. [Ilefoastro Method: A Modern Manual for Digital Yoruba Genealogy and Lineage Branding](https://a.co/d/01PScJ1T). A short manual on the three steps.
+6. [ILEFOASTROHOOD: Building Legacies from the Street Grid to the Cloud](https://a.co/d/092up2Yb). Trilogy, Book 1. Neighbourhood-level documentation.
+7. [THE ILEFOASTRO SYSTEM: A Frictionless Blueprint for African Digital Genealogy and Lineage Preservation](https://a.co/d/087zfCpz). A short guide to the structure behind the Method.
+8. [Report and Sacrifice: The Core Principles of Metadata Preservation and System Optimization](https://a.co/d/03HClD9R). Principles for keeping records consistent and error-free.
+9. [Organic Earth Trap vs. Corporate Cloud Trap: The Sovereign Data Dilemma of Digitizing African Lineage](https://a.co/d/0bzdiJTN). On keeping family records under the family's own control.
 
-### 9. SOVEREIGN SHIELD LEDGER: THE CORPORATE CLOUD TRAP
-* Title: Organic Earth Trap vs. Corporate Cloud Trap: The Sovereign Data Dilemma of Digitizing African Lineage
-* Direct System Route:**[Launch Standalone Registry Link](https://a.co/d/0bzdiJTN)
-* Node Mapping: Deep diagnostic analytical ledger outlining the critical data dilemma of decoupling fragile records from corporate platform dependencies.
+---
 
-All publication metadata logs are cryptographically secured under the administrative veto of the Lead Archivist to eliminate generational data rot.
-All rights reserved © 2026 ILEFOASTRO DIGITAL LEGACY LIMITED.
+© 2026 Temitope Israel Balogun (Ilefoastro). All rights reserved.
